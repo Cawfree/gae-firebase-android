@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/cawfree/working-directory/quickstart-android/messaging/app/build/intermediates/res/merged/release/drawable-xhdpi/firebase_lockup_400.png",
+        "source": "/home/cawfree/working-directory/quickstart-android/messaging/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png"
+    },
+    {
+        "merged": "/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/res/merged/release/drawable-xhdpi/firebase_lockup_400.png",
+        "source": "/home/cawfree/working-directory/firebase-android/android/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png"
+    }
+]

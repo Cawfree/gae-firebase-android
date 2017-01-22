@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/cawfree/working-directory/quickstart-android/messaging/app/build/intermediates/res/merged/debug/drawable-mdpi-v11/ic_stat_ic_notification.png",
+        "source": "/home/cawfree/working-directory/quickstart-android/messaging/app/src/main/res/drawable-mdpi-v11/ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v11/ic_stat_ic_notification.png",
+        "source": "/home/cawfree/working-directory/firebase-android/android/app/src/main/res/drawable-mdpi-v11/ic_stat_ic_notification.png"
+    }
+]

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_fb405aaeeac439e7e4035347d4e99ffbd32aaafa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/core/app/build/libs/app-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53095cdae175fc966e41f36b3de77ed8577e3ad7">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/app-1.0_edb558fcab7103d6c7d63e7838273ef4aec10b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_2c80d50e6795c0444568440e8bd1a00f53925907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_9e79d3532c0903e4398a1cd2751ca6b446f8979c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_46c9b0d4709a849d1b331c60d25996f6bdc9f50b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_8d54e9669364cf2fc40520ccb3afc48483e200c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_d43245c29fa26b5337c9ddd55a4c6d02755971e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_78d6b38c9011e0609749984bfba112483e307066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_df5916ab1e8636966b89da23cffd53da5015157c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/compilation-tools/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d618bc42ada1548bc6e7fbb2ffb1546a32b80bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_bf842c818554bd6b5bfecd4da61d6775946df99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_2fdddf1d31a7531ef7e7fa2e6a9b0769c7407433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_ffaa085cfc8803953519e74a6bfaa30abb7bab1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_c1dcfa7e951f3801c0409b5629fa97f4f4cc02b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_f80872aa7c75e04c22a7188deae06ca9188a2dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_60ff9b5c70a00c986fc4706afd561acd1066212f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_1510502e8f9b7feeba298a09f1016b69f80cde17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_5908a7795f1f79190518f79461da1483029e3f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_3f08c9c35c6cf9a45bcc968ac825c8ff27e69d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_583756a516b38ad268f7add3f4a5fae53f0d7a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_c814730bf6fbd115097022615f6dfaa17ccbf456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_ce41f15f6b1049b610a5dced841febaf02d22c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_76c448db3795d61296b7ed506c4f92a931c4c86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7e655e4fd5d01177dfec3daadd938ce2d1f9b03">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-1.0.0_5692854656b5ec7a207401142387ed90d70ee355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_7af4246de8e4c80c03194382477c8b98608d3fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dcdcfe1ccaa9239dfbf1d494b06be0a67a350417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_e65f6b0c0b66e717decab970f7e3783b3ab81dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c92243b496fb0dfa320a2889292097f92f908b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8ab7b7b600f03fdd1bbccf8ca3bf5672d8b42e62.jar" />
+    </item>
+
+</items>

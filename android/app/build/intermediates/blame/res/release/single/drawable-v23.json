@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/cawfree/working-directory/firebase-android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/cawfree/working-directory/quickstart-android/messaging/app/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/cawfree/working-directory/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
